@@ -5,6 +5,7 @@ body {
     box-sizing: border-box;
     width: 100vw;
     min-height: 100vh;
+    line-height: 177px;
     margin: 0 auto;
     text-align: center;
     font-size: 1em;
@@ -124,6 +125,13 @@ form {
 textarea {
     width: 99.5%;
     height: 20vh;
+}
+
+.crystalgame {
+
+    line-height: unset;
+    padding-top: 0px;
+    padding-bottom: 170px;
 }
 
 
