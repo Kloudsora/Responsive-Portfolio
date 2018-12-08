@@ -134,8 +134,34 @@ textarea {
     padding-bottom: 170px;
 }
 
+.triviagame {
+    line-height: unset;
+    padding-top: 0px;
+    padding-bottom: 170px;
 
+}
+.crystal {
+    position: absolute;
+    bottom: 200px;
+    padding-bottom: 0px;
+}
 
+.crystallink {
+    position: absolute;
+    bottom: 210px;
+    padding-bottom: 0px;
+    left: 289px;
+}
+
+#trivia {
+    left: 590px !IMPORTANT;
+    position: sticky;
+}
+
+.arthas {
+    position: absolute;
+    bottom: 26px;
+}
 
 @media screen and (max-width: 640px) {
     #name {padding: 40px 0;
