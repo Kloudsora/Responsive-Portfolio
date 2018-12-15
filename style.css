@@ -163,6 +163,17 @@ textarea {
     bottom: 26px;
 }
 
+
+#giftastic {
+    left: 315px !IMPORTANT;
+    position: absolute;
+}
+
+ .gif{
+    position: inherit;
+    bottom: -114px;
+}
+
 @media screen and (max-width: 640px) {
     #name {padding: 40px 0;
     color: white;
